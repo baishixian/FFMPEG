@@ -1,0 +1,1 @@
+Build ffmpeg for Android on Mac.
